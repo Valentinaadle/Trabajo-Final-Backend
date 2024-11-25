@@ -1,0 +1,36 @@
+﻿@model IEnumerable<TrabajoFinal.Dtos.ClaseDto>
+
+@{
+    ViewData["Title"] = "Lista de clases";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear nueva clase</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Profesor</th>
+            <th>Fecha de inicio</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var clase in Model)
+        {
+                <tr>
+                    <td>@clase.Nombre</td>
+                    <td>@clase.Profesor</td>
+                    <td>@clase.Fecha.ToString("dd/MM/yyyy HH:mm")</td> 
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@clase.Id" class="btn btn-warning">Editar</a>
+                        <a asp-action="Delete" asp-route-id="@clase.Id" class="btn btn-danger">Eliminar</a>
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>

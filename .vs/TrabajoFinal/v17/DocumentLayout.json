@@ -1,0 +1,544 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\views\\socios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:views\\socios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\views\\clases\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:views\\clases\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\views\\socios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:views\\socios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\views\\clases\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:views\\clases\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\repositories\\interfaces\\isociorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:repositories\\interfaces\\isociorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\views\\clases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:views\\clases\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\views\\socios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:views\\socios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\views\\clases\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:views\\clases\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\repositories\\sociorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:repositories\\sociorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\repositories\\claserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:repositories\\claserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\repositories\\interfaces\\iclaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:repositories\\interfaces\\iclaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\mappers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:mappers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\dtos\\sociodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:dtos\\sociodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\dtos\\clasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:dtos\\clasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\data\\gimnasiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:data\\gimnasiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\controllers\\clasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:controllers\\clasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\controllers\\socioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:controllers\\socioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\models\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:models\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\views\\socios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:views\\socios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\trabajofinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:trabajofinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\migrations\\20241124225621_nombredelamigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:migrations\\20241124225621_nombredelamigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|c:\\desarrollo de software\\desarrollo backend\\trabajo final\\trabajofinal\\migrations\\20241124224053_updatesociowithtelefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1C108C-B313-4A2E-858D-5C05D7185FA1}|TrabajoFinal.csproj|solutionrelative:migrations\\20241124224053_updatesociowithtelefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T21:33:11.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T21:32:39.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T21:32:33.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T21:25:16.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SocioRepository.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Repositories\\SocioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SocioRepository.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Repositories\\SocioRepository.cs",
+              "RelativeToolTip": "Repositories\\SocioRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wBQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:21:11.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Mappers\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Mappers\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Mappers\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Mappers\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:19:17.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Clases\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clases\\Delete.cshtml",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Clases\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Clases\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T21:16:33.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SociosController.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Controllers\\SociosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SociosController.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Controllers\\SociosController.cs",
+              "RelativeToolTip": "Controllers\\SociosController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwGsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:18:58.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Clases\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clases\\Index.cshtml",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Clases\\Index.cshtml",
+              "RelativeToolTip": "Views\\Clases\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T23:03:56.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Clases\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clases\\Edit.cshtml",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Clases\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Clases\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T22:57:44.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241124225621_NombreDeLaMigracion.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Migrations\\20241124225621_NombreDeLaMigracion.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241124225621_NombreDeLaMigracion.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Migrations\\20241124225621_NombreDeLaMigracion.cs",
+              "RelativeToolTip": "Migrations\\20241124225621_NombreDeLaMigracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:56:21.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Socios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Socios\\Create.cshtml",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Socios\\Create.cshtml",
+              "RelativeToolTip": "Views\\Socios\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T22:51:33.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISocioRepository.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Repositories\\Interfaces\\ISocioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ISocioRepository.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Repositories\\Interfaces\\ISocioRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ISocioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:51:20.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IClaseRepository.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Repositories\\Interfaces\\IClaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IClaseRepository.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Repositories\\Interfaces\\IClaseRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IClaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:51:17.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Clases\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clases\\Create.cshtml",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Clases\\Create.cshtml",
+              "RelativeToolTip": "Views\\Clases\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T22:49:21.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241124224053_UpdateSocioWithTelefono.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Migrations\\20241124224053_UpdateSocioWithTelefono.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241124224053_UpdateSocioWithTelefono.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Migrations\\20241124224053_UpdateSocioWithTelefono.cs",
+              "RelativeToolTip": "Migrations\\20241124224053_UpdateSocioWithTelefono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:40:54.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TrabajoFinal.csproj",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\TrabajoFinal.csproj",
+              "RelativeDocumentMoniker": "TrabajoFinal.csproj",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\TrabajoFinal.csproj",
+              "RelativeToolTip": "TrabajoFinal.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T21:45:57.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwDEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:25:44.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClaseDto.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Dtos\\ClaseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ClaseDto.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Dtos\\ClaseDto.cs",
+              "RelativeToolTip": "Dtos\\ClaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:44:04.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClasesController.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Controllers\\ClasesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClasesController.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Controllers\\ClasesController.cs",
+              "RelativeToolTip": "Controllers\\ClasesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:32:33.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Socios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Socios\\Index.cshtml",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Socios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Socios\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T20:35:14.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SocioDto.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Dtos\\SocioDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\SocioDto.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Dtos\\SocioDto.cs",
+              "RelativeToolTip": "Dtos\\SocioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:44:09.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T21:24:48.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GimnasioContext.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Data\\GimnasioContext.cs",
+              "RelativeDocumentMoniker": "Data\\GimnasioContext.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Data\\GimnasioContext.cs",
+              "RelativeToolTip": "Data\\GimnasioContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:44:26.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T21:26:13.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:31:27.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Models\\Clase.cs",
+              "RelativeDocumentMoniker": "Models\\Clase.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Models\\Clase.cs",
+              "RelativeToolTip": "Models\\Clase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:53:55.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Socio.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Models\\Socio.cs",
+              "RelativeDocumentMoniker": "Models\\Socio.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Models\\Socio.cs",
+              "RelativeToolTip": "Models\\Socio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:54:21.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClaseRepository.cs",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Repositories\\ClaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClaseRepository.cs",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Repositories\\ClaseRepository.cs",
+              "RelativeToolTip": "Repositories\\ClaseRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:43:02.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Socios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Socios\\Edit.cshtml",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Socios\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Socios\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T20:36:26.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Socios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Socios\\Delete.cshtml",
+              "ToolTip": "C:\\Desarrollo de Software\\Desarrollo Backend\\Trabajo Final\\TrabajoFinal\\Views\\Socios\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Socios\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T20:36:38.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

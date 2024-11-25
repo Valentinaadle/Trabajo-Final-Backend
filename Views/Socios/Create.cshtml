@@ -1,0 +1,36 @@
+﻿@model TrabajoFinal.Dtos.SocioDto
+
+@{
+    ViewData["Title"] = "Agregar nuevo socio";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Nombre" class="control-label">Nombre:</label>
+        <input asp-for="Nombre" class="form-control" />
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Apellido" class="control-label">Apellido:</label>
+        <input asp-for="Apellido" class="form-control" />
+        <span asp-validation-for="Apellido" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="NumeroDeTelefono" class="control-label">Número de Teléfono:</label>
+        <input asp-for="NumeroDeTelefono" class="form-control" />
+        <span asp-validation-for="NumeroDeTelefono" class="text-danger"></span>
+    </div>
+    <br />
+
+    <button type="submit" class="btn btn-primary">Crear</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

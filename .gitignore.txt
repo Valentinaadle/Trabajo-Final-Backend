@@ -1,0 +1,26 @@
+# Ignorar los archivos de build y compilación
+bin/
+obj/
+
+# Ignorar configuraciones específicas de Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Ignorar archivos de usuario
+*.user
+*.suo
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar bases de datos locales
+*.db
+
+# Ignorar archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+
+# Ignorar imágenes que no sean el logo
+wwwroot/images/*
+!wwwroot/images/logo.jpg

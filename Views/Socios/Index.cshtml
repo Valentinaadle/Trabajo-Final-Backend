@@ -1,0 +1,36 @@
+﻿@model IEnumerable<TrabajoFinal.Dtos.SocioDto>
+
+@{
+    ViewData["Title"] = "Lista de socios";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Agregar nuevo socio</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Número de Teléfono</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var socio in Model)
+        {
+                <tr>
+                    <td>@socio.Nombre</td>
+                    <td>@socio.Apellido</td>
+                    <td>@socio.NumeroDeTelefono</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@socio.Id" class="btn btn-warning">Editar</a>
+                        <a asp-action="Delete" asp-route-id="@socio.Id" class="btn btn-danger">Eliminar</a>
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>

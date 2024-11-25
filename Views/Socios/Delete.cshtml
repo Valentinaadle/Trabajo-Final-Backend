@@ -1,0 +1,15 @@
+﻿@model TrabajoFinal.Dtos.SocioDto
+
+@{
+    ViewData["Title"] = "Eliminar socio";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h3>¿Estás seguro de que deseas eliminar al socio <strong>@Model.Nombre @Model.Apellido</strong>?</h3>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
